@@ -1,0 +1,35 @@
+_repo: The-radium-pool_71124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Repp, Ed Earl
+    aliases:
+    - Buckner, Bradner
+    - Repp, Edward Earl
+    - Repp, E. E. (Edward Earl)
+    birthdate: 1900
+    deathdate: 1979
+    gutenberg_agent_id: '32417'
+    url: http://www.gutenberg.org/2009/agents/32417
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Earl_Repp
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71124'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.31822043034990&view=1up&seq=1
+pgterms:marc905: 20221123102423repp
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bFantasy Publishing Co. Inc., $c1929, copyright
+  1930, copyright 1945, copyright 1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The radium pool
+url: http://www.gutenberg.org/ebooks/71124
